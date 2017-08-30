@@ -1,0 +1,19 @@
+{
+  "name": "ku-sales",
+  "version": "1.0.0",
+  "description": "Контур.Университет",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostlySunny/ku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostlySunny/ku/issues"
+  },
+  "homepage": "https://github.com/MostlySunny/ku#readme"
+}
